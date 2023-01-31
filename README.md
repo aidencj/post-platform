@@ -1,10 +1,12 @@
 # post-platform
 
-## Demo
-[Video link](https://youtu.be/GbXTjVWnB7Q)
-
 ## 介紹
 這是一個簡易的區塊鏈貼文系統，使用者可在App介面上撰寫貼文，並送至區塊鏈上做成NFT，隨後便可以透過搜尋Token ID的方式來閱讀鏈上貼文。
+
+> 此版本僅是半成品，將貼文上鍊的做法是不實際的，且許多相關功能還未完成，勿部署至主網。
+
+## Demo
+[Video link](https://youtu.be/GbXTjVWnB7Q)
 
 ## 環境
 
